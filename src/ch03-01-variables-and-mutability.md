@@ -148,4 +148,4 @@ error[E0308]: mismatched types
   = note:    found type `usize`
 ```
 
-现在我们探索了变量如何工作，让我们看看更多的数据类型。
+我们已经了解变量如何工作，现在了解一下数据类型。
